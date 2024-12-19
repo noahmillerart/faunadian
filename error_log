@@ -1,0 +1,4 @@
+[10-Nov-2024 05:03:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/cjffvrmy/public_html/website_b921455d/wp-content/themes/faunadian/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/cjffvrmy/public_html/website_b921455d/wp-content/themes/faunadian/404.php on line 1
